@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Rohit Kadam</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Rohit.
+    \n\nI love coding.
+    \n\nIt is my passion.
+    \n\nI know many language:
+    \nC, C++, Java, Python, C#, PHP, HTML/CSS, JavaScript, TypeScript.
+    \n\nI have learn many framework:
+    \nAngular, Android, DotNet.
+    \n\nNow I going to learn Machine Learning.
+    \n\nI have done multiple project, some best project are:
+        \n\t1. Personal Yoga Instructor: Machine learning project runs on mobile.
+        \n\t2. Fill Gap: Native Language chatting system.
+        \n\t3. Memento: Smart Gallery desktop App built in Angular and Electrons.
+    </string>
+    <string name="what_is_nickname">What is nickname?</string>
+    <string name="done">Done</string>
+</resources>
